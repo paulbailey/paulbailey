@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a rel="me" href="https://mas.to/@paulbailey">&commat;paulbailey&commat;mas.to</a>
+<a rel="me,nofollow" href="https://mas.to/@paulbailey">&commat;paulbailey&commat;mas.to</a>
 
 <!--
 **paulbailey/paulbailey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
